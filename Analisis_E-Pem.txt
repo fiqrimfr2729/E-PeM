@@ -1,0 +1,51 @@
+1.	Aplikasi memiliki 2 aktor Pemesan dan admin
+2.	Pemesan dapat memesan produk tanpa melakukan login
+3.	Admin dapat menambah dan mengubah data produk melalui web atau android
+4.	Admin dapat melihat daftar pesanan melalui web ataupun android
+5.	Produk memiiliki nama produk, harga, kategori, waktu pengerjaan, deskripsi
+6.	Admin dapat menambah dan menghapus kategori produk
+7.	
+8.	Pesanan memiliki atribut, id, tanggal, nama pemesan, kota, barang yang dipesan, bahan produk
+9.	Pemesan dapat memesan lebih dari 1 produk
+10.	Terdapat 2 aplikasi web, untuk pemesan dan admin
+11.	Admin dapat menghapus data pesanan
+12.	Aplikasi dapat mengenksripsi password
+13.	Terdapat status pesanan (belum direspon, direspon, diproses, selesai)
+14.	Admin dapat mengubah profil perusahaan
+15.	Admin dapat melihat jumlah, produk, kategori, pesanan.
+16.	Aplikasi web memiliki fitur “pesan sesuai keinginan”
+17.	isi pesan dapat di atur melalui aplikasi android
+18.	Cara pemesanan , pemesan memilih produk -> aplikasi menampilkan form (nama, alamat, no hp, 
+	Email) -> pesanan diterima admin -> admin mengirimkan pesan dan meminta bukti pembayaran dp melalui wa -> pembeli mengirimkan bukti pembayaran -> produk di kerjakan -> produk selesai -> produk dikirim
+19.	
+
+Aplikasi web : 
+1.	Aplikasi web dapat menampilkan semua daftar produk atau berdasarkan kategori
+2.	Aplikasi web memiliki fitur “pesan sesuai keinginan”
+3.	Form pemesan (Nama, alamat, kota, provinsi, kode pos, no hp(WA), captcha, ceklis ‘co. Apakah anda mengerti aturan mainnya?’)
+4.	Aplikasi web dapat menampilkan produk berdasarkan kategori
+5.	Aplikasi web dapat menampilkan kontak wa alamat lengkap pembuat mebel 
+6.	Aplikasi web dapat menampilkan tata cara pemesanan
+
+
+Aplikasi android :
+1.	Aplikasi android memiliki fitur otomatis membuka wa bisnis, dan langsung siap mengirim pesan kepada pemesan.
+2.	Aplikasi android dapat menampilkan jumlah produk, jumlah produk per kategori, jumlah kategori
+3.	Aplikasi android dapat menampilkan jumlah pesanan tiap status
+4.	Aplikasi android dapat menampilkan daftar barang
+5.	Aplikasi android memiliki fitur tambah barang, ubah data barang dan hapus data barang
+6.	Aplikasi android memiliki fitur tambah kategori, hapus kategori
+7.	Aplikasi android dapat menampilkan data barang berdasarkan kategori
+8.	Aplikasi android memiliki fitur ubah alamat dan ubah no hp
+9.	Aplikasi android dapat menampilkan pesanan
+10.	Aplikasi android dapat mengelompokan pesanan berdasarkan status pesanan
+11.	Aplikasi android memiliki fitur ubah status pesanan
+
+
+
+
+
+
+Yang ditanyakan  :
+1.	setiap katalog/produk apa sudah memiliki harga yg tetap atau bisa berubah berdasarkan bahan/warna/lainnya
+2.	
